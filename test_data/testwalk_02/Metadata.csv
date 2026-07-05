@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 11,1783175437815,2026-07-04_14-30-37,Africa/Kigali,ios,1.60.1,bf2cbcf6-9be1-4b89-b6c3-feaf4f764bcc,Accelerometer|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10,false,26.4
